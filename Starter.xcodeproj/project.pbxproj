@@ -163,9 +163,11 @@
 				TargetAttributes = {
 					50AA9E8D1CDA77470035B484 = {
 						CreatedOnToolsVersion = 7.3;
+						LastSwiftMigration = 0830;
 					};
 					A21594261B94D79300F2F665 = {
 						CreatedOnToolsVersion = 7.0;
+						LastSwiftMigration = 0830;
 					};
 				};
 			};
@@ -242,6 +244,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.damouse.SilveryTests;
 				PRODUCT_MODULE_NAME = SilveryTests;
 				PRODUCT_NAME = Starter;
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -255,6 +258,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.damouse.SilveryTests;
 				PRODUCT_MODULE_NAME = SilveryTests;
 				PRODUCT_NAME = Starter;
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
@@ -362,6 +366,7 @@
 				PRODUCT_NAME = Starter;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -379,6 +384,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.damouse.silvery;
 				PRODUCT_NAME = Starter;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};

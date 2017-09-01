@@ -2,9 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:/Users/damouse/code/swift/starter/Starter.xcodeproj">
+      location = "group:./Starter.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:/Users/damouse/code/swift/starter/Starter.playground">
+      location = "group:./Starter.playground">
    </FileRef>
 </Workspace>
